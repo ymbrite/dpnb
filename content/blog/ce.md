@@ -1,6 +1,7 @@
 ---
 title: "稀奇古怪的中国经济"
 author: "ym"
+slug: /blog/ce
 dates:
  published: "2026-03-15"
 ---
