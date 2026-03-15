@@ -1,6 +1,7 @@
 ---
 title: "战马"
 author: "ym"
+slug: /blog/fh
 dates:
  published: "2026-03-15"
 ---
